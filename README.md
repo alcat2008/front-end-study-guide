@@ -8,11 +8,13 @@
                       ====>    `Flux/Redux`    ===>
 ```
 
+--------------------------------------------------------------------------------
+
 ## 开发工具
 
-- WebStorm
-- Atom
-- Chrome
+- `WebStorm`
+- `Atom`
+- `Chrome`
 
 ## 版本控制 Git
 
@@ -33,6 +35,8 @@
 - [Airbnb JavaScript 编码规范](https://github.com/yuche/javascript)
 - [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 - 项目中 Eslint rules 及提示
+
+--------------------------------------------------------------------------------
 
 ## JavaScript
 
