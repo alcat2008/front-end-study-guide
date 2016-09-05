@@ -121,4 +121,34 @@ function isJSON(str) {
 }
 ```
 
-6. 谈一谈你所接触过的前端库或者框架（jQuery/React/Angular/Vue...），并谈一谈对它的理解。
+6. 在下列代码的 for 循环中填入代码，使得结果是延迟 1s 输出 0 ~ 9。
+
+```javascript
+for (var i = 0; i < 10; i++) {
+  // TODO
+}
+```
+
+答案：
+```javascript
+// 方法一：
+for(var i = 0; i < 10; i++) {
+  (function(e) {
+    setTimeout(function() {
+      console.log(e);  
+    }, 1000);
+  })(i);
+}
+
+// 方法二：
+for(var i = 0; i < 10; i++) {
+  setTimeout((function(e) {
+    return function() {
+      console.log(e);
+    }
+  })(i), 1000)
+}
+```
+
+
+7. 谈一谈你所接触过的前端库或者框架（jQuery/React/Angular/Vue...），并谈一谈对它的理解。
