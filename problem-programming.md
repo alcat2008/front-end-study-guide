@@ -4,7 +4,9 @@ title: 前端题目集锦 - 编程题
 categories: front-end
 ---
 
-1. 实现一个函数clone，可以对JavaScript中的5种主要的数据类型（包括Number、String、Object、Array、Boolean）进行值复制
+### 1. 实现一个函数clone，可以对JavaScript中的5种主要的数据类型（包括Number、String、Object、Array、Boolean）进行值复制
+
+答案：
 
 - 考察点1：对于基本数据类型和引用数据类型在内存中存放的是值还是指针这一区别是否清楚
 - 考察点2：是否知道如何判断一个变量是什么类型的
@@ -47,7 +49,9 @@ function clone(Obj) {
 }
 ```
 
-2. 如何消除一个数组里面重复的元素？
+### 2. 如何消除一个数组里面重复的元素？
+
+答案：
 
 ```javascript
 myArray.filter(function(elem, pos, self){
@@ -55,7 +59,9 @@ myArray.filter(function(elem, pos, self){
 });
 ```
 
-3. 实现快速排序（Quicksort）算法
+### 3. 实现快速排序（Quicksort）算法
+
+答案：
 
 "快速排序"的思想很简单，整个排序过程只需要三步：
 
@@ -85,7 +91,9 @@ var quickSort = function(arr) {
 };
 ```
 
-4. 分别定义构造函数 Parent 和 Child，并利用原型链使得 Child 继承 Parent 的所有属性和方法。
+### 4. 分别定义构造函数 Parent 和 Child，并利用原型链使得 Child 继承 Parent 的所有属性和方法。
+
+答案：
 
 思路：**利用构造函数继承实例属性，利用原型链继承原型属性和方法**。
 
@@ -109,7 +117,9 @@ Child.prototype = inherit(Parent.prototype);
 Child.prototype.constructor = Child;
 ```
 
-5. 实现 isJSON(str) 函数，判断 str 是否为有效的 JSON 字符串
+### 5. 实现 isJSON(str) 函数，判断 str 是否为有效的 JSON 字符串
+
+答案：
 
 ```javascript
 function isJSON(str) {
@@ -121,15 +131,19 @@ function isJSON(str) {
 }
 ```
 
-6. 在下列代码的 for 循环中填入代码，使得结果是延迟 1s 输出 0 ~ 9。
+### 6. 在下列代码的 for 循环中填入代码，使得结果是延迟 1s 输出 0 ~ 9。
 
 ```javascript
 for (var i = 0; i < 10; i++) {
   // TODO
+
 }
 ```
 
 答案：
+
+考察应试者对闭包的理解。
+
 ```javascript
 // 方法一：
 for(var i = 0; i < 10; i++) {
@@ -151,4 +165,18 @@ for(var i = 0; i < 10; i++) {
 ```
 
 
-7. 谈一谈你所接触过的前端库或者框架（jQuery/React/Angular/Vue...），并谈一谈对它的理解。
+### 7. 谈一谈你所接触过的前端库或者框架（jQuery/React/Angular/Vue...），并谈一谈对它的理解。
+
+答案：
+
+本题为发散型试题，考察应试者对所使用的库或框架的理解，是否关注前沿技术，是否对当前技术仅是拿来主义。不仅要能列出当前技术的特点、优点，若能分析其缺点（不擅长的应用场景）应加分对待。要是能从实现角度进行分析，并且思路尚可，建议直接进入复试。
+
+下面列取部分特性，仅供参考。
+
+jQuery：轻量级的js框架；丰富的DOM选择器；事件、样式、动画支持；Ajax操作支持；跨浏览器兼容；插件扩展开发；可扩展性强；不能向后兼容；对动画和特效的支持差...
+
+React： 声明式；Virtual Dom；组件化；Flux/Redux 单向数据流；函数式；React Native...
+
+Angular： 完整的框架；双向绑定...
+
+Vue: 视图层；单向绑定；数据驱动；组件化；轻量...
