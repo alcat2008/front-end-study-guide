@@ -3,9 +3,17 @@
 学习曲线遵循
 
 ```javascript
-`JavaScript (ES5/6)` => `React` => `React Native` ===> ...
-                     |                             |
-                      ====>    `Flux/Redux`    ===>
+`JavaScript (ES5/6)` => `React` => `React Native`
+         |           |                      |
+        `FP`          ==> `Flux/Redux`  ==> |
+                                            |
+                                            |
+`HTML` => `HTML5`   ===>  `Mental Model`  <===
+                     |           |
+                     |           |
+                     |        `Design` ===> `Art` ===> ...
+                     |
+`CSS` => `CSS3` => `LESS`
 ```
 
 --------------------------------------------------------------------------------
@@ -40,6 +48,7 @@
 
 ## JavaScript
 
+- [JavaScript 教程](http://www.w3school.com.cn/js/index.asp)
 - [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 - [跟着9张思维导图学习Javascript](http://www.jianshu.com/p/a4171444e512)
 - [ECMAScript 6入门](http://es6.ruanyifeng.com/)
@@ -100,3 +109,46 @@ React Native 参考：
 中文版
 
 [React 设计思想](https://github.com/react-guide/react-basic)
+
+
+--------------------------------------------------------------------------------
+
+# Web
+
+## HTML
+
+[HTML 教程](http://www.w3school.com.cn/html/index.asp)
+
+[HTML5 教程](http://www.w3school.com.cn/html5/index.asp)
+
+## CSS
+
+[CSS 教程](http://www.w3school.com.cn/css/index.asp)
+
+[CSS3 教程](http://www.w3school.com.cn/css3/index.asp)
+
+[学习CSS布局](http://zh.learnlayout.com/)
+
+### LESS
+
+[LESS 一种动态样式语言](http://www.bootcss.com/p/lesscss/)
+
+[LESS 官网](http://lesscss.org/)
+
+[LESS 中文网](http://www.lesscss.net/)
+
+
+## Color
+
+[WEB安全色](http://www.bootcss.com/p/websafecolors/)
+
+[Colors色彩](http://ant.design/docs/spec/colors)
+
+
+--------------------------------------------------------------------------------
+
+# Design
+
+[Material Design](https://material.google.com/)
+
+[Ant Design](http://ant.design/)
