@@ -62,6 +62,7 @@ React 参考：
 - [React 中文网](http://reactjs.cn/)
 - [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
 - [React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/index.html)
+- [React Transaction 机制](http://front-ender.me/react/react-transaction.html)
 
 ## React Native
 
@@ -81,6 +82,22 @@ React Native 参考：
 - [Flux应用架构](http://reactjs.cn/react/docs/flux-overview.html)
 - [React Flux入门教程](https://xinranliu.me/2015-01-30-some-understanding-about-flux/)
 - [Flux 架构入门教程](http://www.ruanyifeng.com/blog/2016/01/flux.html)
+
+## Redux
+
+[Redux 官网](http://redux.js.org/)
+
+参考：
+- [Redux 中文文档](http://cn.redux.js.org/index.html)
+- [理解 Redux](http://front-ender.me/architecture/redux.html)
+- [Redux 源码分析](http://front-ender.me/architecture/redux-source-code.html)
+- [react-redux 源码分析](http://front-ender.me/architecture/react-redux-source-code.html)
+
+
+## 技术栈
+
+[React 技术栈系列教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
+
 
 --------------------------------------------------------------------------------
 
@@ -141,12 +158,23 @@ React Native 参考：
 
 [style 模块化思考](http://front-ender.me/architecture/style-modular.html)
 
+### CSS Performance
+
+[CSS Animation 性能优化](http://www.w3cplus.com/animation/animation-performance.html)
+
 
 ## Color
 
 [WEB安全色](http://www.bootcss.com/p/websafecolors/)
 
 [Colors色彩](http://ant.design/docs/spec/colors)
+
+
+## Principle
+
+[How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+
+[What-happens-when](https://github.com/skyline75489/what-happens-when-zh_CN)
 
 
 --------------------------------------------------------------------------------
