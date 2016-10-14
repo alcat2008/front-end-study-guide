@@ -64,6 +64,11 @@ React 参考：
 - [React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/index.html)
 - [React Transaction 机制](http://front-ender.me/react/react-transaction.html)
 
+React Components
+
+- [Material-UI](http://www.material-ui.com/#/)
+- [Elemental UI](http://elemental-ui.com/)
+
 ## React Native
 
 [React Native 官网](https://facebook.github.io/react-native/)
@@ -72,6 +77,10 @@ React Native 参考：
 
 - [React Native 中文网](http://reactnative.cn/)
 - [React Native parts](https://react.parts/native)
+
+React Native Components
+
+- [Ant Design Mobile](https://mobile.ant.design/)
 
 ## Flux
 
@@ -127,7 +136,6 @@ React Native 参考：
 
 [React 设计思想](https://github.com/react-guide/react-basic)
 
-
 --------------------------------------------------------------------------------
 
 # Web
@@ -176,6 +184,18 @@ React Native 参考：
 
 [What-happens-when](https://github.com/skyline75489/what-happens-when-zh_CN)
 
+
+--------------------------------------------------------------------------------
+
+# TypeScript
+
+[TypeScript 官网](http://www.typescriptlang.org/)
+
+参考：
+- [TypeScript中文网](http://tslang.cn/)
+- [TypeScript Handbook（中文版）](https://zhongsp.gitbooks.io/typescript-handbook/content/)
+- [TypeScript 的声明文件的使用与编写](https://my.oschina.net/fenying/blog/748805)
+- [TypeScript Types Search](http://microsoft.github.io/TypeSearch/)
 
 --------------------------------------------------------------------------------
 
