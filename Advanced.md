@@ -5,6 +5,20 @@
 
 --------------------------------------------------------------------------------
 
+# 架构
+
+
+[系统设计黄金法则：简单之美](http://blog.sciencenet.cn/home.php?mod=space&uid=414166&do=blog&id=562616)
+
+
+## 组件化和模块化
+
+[2015前端组件化框架之路](https://github.com/xufei/blog/issues/19)
+
+[关于前端开发中“模块”和“组件”概念的思考](https://github.com/hax/hax.github.com/issues/21)
+
+--------------------------------------------------------------------------------
+
 # Functional Programming
 
 ## Monads
