@@ -10,6 +10,7 @@
 
 [系统设计黄金法则：简单之美](http://blog.sciencenet.cn/home.php?mod=space&uid=414166&do=blog&id=562616)
 
+[Arale 背后的一些设计理念](https://github.com/lifesinger/blog/issues/106)
 
 ## 组件化和模块化
 
@@ -45,6 +46,8 @@
 
 [React 设计思想](https://github.com/react-guide/react-basic)
 
+[React的设计哲学 - 简单之美](http://www.infoq.com/cn/articles/react-art-of-simplity)
+
 
 --------------------------------------------------------------------------------
 
@@ -52,6 +55,7 @@
 
 ## CSS
 
+[如何看待《React: CSS in JS》](https://github.com/hax/hax.github.com/issues/22)
 
 ### CSS Modular
 

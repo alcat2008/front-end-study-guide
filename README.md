@@ -86,6 +86,7 @@ React Native 参考：
 
 - [React Native 中文网](http://reactnative.cn/)
 - [React Native parts](https://react.parts/native)
+- [React Native Express](http://www.reactnativeexpress.com/)
 
 React Native Components
 
@@ -114,6 +115,21 @@ React Native Components
 ## 技术栈
 
 [React 技术栈系列教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
+
+--------------------------------------------------------------------------------
+
+# 测试
+
+[前端单元测试探索](https://segmentfault.com/a/1190000006933557)
+
+[测试框架 Mocha 实例教程](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
+
+[Enzyme](http://airbnb.io/enzyme/)
+
+[使用 Mocha + Chai + Sinon 测试 React + Redux 的 web 应用](http://zhaozhiming.github.io/blog/2015/12/19/use-mocha-and-chai-and-sinon-to-test-react-and-redux-webapp/)
+
+[React 测试入门教程](http://www.ruanyifeng.com/blog/2016/02/react-testing-tutorial.html)
+
 
 --------------------------------------------------------------------------------
 
