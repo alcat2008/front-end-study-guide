@@ -24,7 +24,7 @@
 
 [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ifom7kt4c)
 
-[How it feels to learn JavaScript in 2016 中文版](http://www.tuicool.com/m/articles/YnQbU3I?from=timeline&isappinstalled=1)
+中文版 => [在 2016 年学 JavaScript 是一种什么样的体验？](https://zhuanlan.zhihu.com/p/22782487)
 
 --------------------------------------------------------------------------------
 
