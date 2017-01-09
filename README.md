@@ -153,6 +153,8 @@ React Native Components
 
 [Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
 
+[CSS 编码规范](http://codeguide.bootcss.com/)
+
 ### LESS
 
 [LESS 一种动态样式语言](http://www.bootcss.com/p/lesscss/)
