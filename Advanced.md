@@ -18,6 +18,14 @@
 
 [关于前端开发中“模块”和“组件”概念的思考](https://github.com/hax/hax.github.com/issues/21)
 
+
+--------------------------------------------------------------------------------
+
+# Design Pattern
+
+[JavaScript设计模式：单例模式](http://www.zcfy.cc/article/javascript-design-patterns-the-singleton-918.html)
+
+
 --------------------------------------------------------------------------------
 
 # Functional Programming
