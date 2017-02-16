@@ -35,6 +35,8 @@
 - `Atom`
 - `Chrome`
 
+一些常用工具的使用方法可参考 [toolkit](https://github.com/alcat2008/toolkit)
+
 ## 版本控制 Git
 
 [git - 简明指南](http://www.runoob.com/manual/git-guide/)
