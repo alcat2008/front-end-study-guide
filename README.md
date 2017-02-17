@@ -124,6 +124,8 @@ React Native Components
 
 # 测试
 
+[基于 React + Redux 的组件测试](http://front-ender.me/react/react-test-component.html)
+
 [前端单元测试探索](https://segmentfault.com/a/1190000006933557)
 
 [测试框架 Mocha 实例教程](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
