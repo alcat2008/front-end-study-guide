@@ -5,8 +5,7 @@
 
 --------------------------------------------------------------------------------
 
-# 架构
-
+# Architecture 架构
 
 [系统设计黄金法则：简单之美](http://blog.sciencenet.cn/home.php?mod=space&uid=414166&do=blog&id=562616)
 
@@ -21,14 +20,14 @@
 
 --------------------------------------------------------------------------------
 
-# Design Pattern
+# Design Pattern 设计模式
 
 [JavaScript设计模式：单例模式](http://www.zcfy.cc/article/javascript-design-patterns-the-singleton-918.html)
 
 
 --------------------------------------------------------------------------------
 
-# Functional Programming
+# Programming Methodology 编程方法论
 
 ## Monads
 
@@ -59,24 +58,30 @@
 
 --------------------------------------------------------------------------------
 
-# Web
-
-## CSS
+# CSS
 
 [如何看待《React: CSS in JS》](https://github.com/hax/hax.github.com/issues/22)
 
-### CSS Modular
+## CSS Modular
 
 [style 模块化思考](http://front-ender.me/architecture/style-modular.html)
 
-### CSS Performance
+## CSS Performance
 
 [CSS Animation 性能优化](http://www.w3cplus.com/animation/animation-performance.html)
 
 
+--------------------------------------------------------------------------------
 
-## Principle
+# Principle 原理
 
 [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 
 [What-happens-when](https://github.com/skyline75489/what-happens-when-zh_CN)
+
+
+--------------------------------------------------------------------------------
+
+# Performance 性能
+
+[JavaScript 启动性能瓶颈分析与解决方案](http://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484987&idx=1&sn=7f20da20bc6baed62ca8ff115209942b)

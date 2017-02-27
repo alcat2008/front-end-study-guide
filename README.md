@@ -26,6 +26,8 @@
 
 中文版 => [在 2016 年学 JavaScript 是一种什么样的体验？](https://zhuanlan.zhihu.com/p/22782487)
 
+[Front-End Developer Handbook 2017](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/)
+
 --------------------------------------------------------------------------------
 
 
@@ -123,6 +125,8 @@ React Native Components
 --------------------------------------------------------------------------------
 
 # 测试
+
+[前端测试框架概览](http://front-ender.me/test/front-end-test.html)
 
 [基于 React + Redux 的组件测试](http://front-ender.me/react/react-test-component.html)
 
