@@ -11,12 +11,15 @@
 
 [Arale 背后的一些设计理念](https://github.com/lifesinger/blog/issues/106)
 
+[前端服务化——页面搭建工具的死与生](http://www.cnblogs.com/sskyy/p/6496287.html)
+
+
+
 ## 组件化和模块化
 
 [2015前端组件化框架之路](https://github.com/xufei/blog/issues/19)
 
 [关于前端开发中“模块”和“组件”概念的思考](https://github.com/hax/hax.github.com/issues/21)
-
 
 --------------------------------------------------------------------------------
 
