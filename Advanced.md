@@ -11,13 +11,18 @@
 
 [Arale 背后的一些设计理念](https://github.com/lifesinger/blog/issues/106)
 
+[我理解的阿里无线前端“架构”](https://github.com/amfe/article/issues/3)
+
 [前端服务化——页面搭建工具的死与生](http://www.cnblogs.com/sskyy/p/6496287.html)
 
+[理想的应用框架](http://www.cnblogs.com/sskyy/p/4592353.html)
 
 
 ## 组件化和模块化
 
 [2015前端组件化框架之路](https://github.com/xufei/blog/issues/19)
+
+[前端工程与模块化框架](http://div.io/topic/439)
 
 [关于前端开发中“模块”和“组件”概念的思考](https://github.com/hax/hax.github.com/issues/21)
 
@@ -31,6 +36,10 @@
 --------------------------------------------------------------------------------
 
 # Programming Methodology 编程方法论
+
+[Overcoming Intuition in Programming](https://amasad.me/intuition)
+
+[程序观点下的线性代数](http://www.cnblogs.com/weidagang2046/p/linear-algebra-from-programming-perspective.html)
 
 ## Monads
 
@@ -87,4 +96,12 @@
 
 # Performance 性能
 
+[14 Rules for Faster-Loading Web Sites](http://stevesouders.com/hpws/rules.php)
+
 [JavaScript 启动性能瓶颈分析与解决方案](http://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484987&idx=1&sn=7f20da20bc6baed62ca8ff115209942b)
+
+## BigPipe
+
+[BigPipe: Pipelining web pages for high performance](https://www.facebook.com/note.php?note_id=389414033919)
+
+[Facebook让网站速度提升一倍的BigPipe技术分析](http://limu.iteye.com/blog/765173)
