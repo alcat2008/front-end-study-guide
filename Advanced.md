@@ -26,6 +26,8 @@
 
 [关于前端开发中“模块”和“组件”概念的思考](https://github.com/hax/hax.github.com/issues/21)
 
+[重新设计 React 组件库](https://zhuanlan.zhihu.com/p/24207409)
+
 --------------------------------------------------------------------------------
 
 # Design Pattern 设计模式
