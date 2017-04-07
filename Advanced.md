@@ -98,6 +98,8 @@
 
 # Performance 性能
 
+[7 天打造前端性能监控系统](http://fex.baidu.com/blog/2014/05/build-performance-monitor-in-7-days/)
+
 [14 Rules for Faster-Loading Web Sites](http://stevesouders.com/hpws/rules.php)
 
 [JavaScript 启动性能瓶颈分析与解决方案](http://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484987&idx=1&sn=7f20da20bc6baed62ca8ff115209942b)
