@@ -33,8 +33,7 @@
 
 ## 开发工具
 
-- `WebStorm`
-- `Atom`
+- `WebStorm` / `VSCode` / `Sublime Text` / `Atom`
 - `Chrome`
 
 一些常用工具的使用方法可参考 [toolkit](https://github.com/alcat2008/toolkit)
