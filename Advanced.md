@@ -17,6 +17,8 @@
 
 [理想的应用框架](http://www.cnblogs.com/sskyy/p/4592353.html)
 
+[Web 研发模式演变](https://github.com/lifesinger/blog/issues/184)
+
 
 ## 组件化和模块化
 
