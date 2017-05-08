@@ -20,6 +20,7 @@
 
 --------------------------------------------------------------------------------
 
+
 ## 概览
 
 [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ifom7kt4c)
@@ -60,6 +61,7 @@
 
 --------------------------------------------------------------------------------
 
+
 ## JavaScript
 
 - [JavaScript 教程](http://www.w3school.com.cn/js/index.asp)
@@ -75,13 +77,9 @@ React 参考：
 
 - [React 中文网](http://reactjs.cn/)
 - [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
-- [React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/index.html)
 - [React Transaction 机制](http://front-ender.me/react/react-transaction.html)
-
-React Components
-
-- [Material-UI](http://www.material-ui.com/#/)
-- [Elemental UI](http://elemental-ui.com/)
+- [pure render](https://zhuanlan.zhihu.com/purerender)
+- [ReactJS News](https://reactjsnews.com/)
 
 ## React Native
 
@@ -90,21 +88,14 @@ React Components
 React Native 参考：
 
 - [React Native 中文网](http://reactnative.cn/)
-- [React Native parts](https://react.parts/native)
 - [React Native Express](http://www.reactnativeexpress.com/)
-
-React Native Components
-
-- [Ant Design Mobile](https://mobile.ant.design/)
 
 ## Flux
 
-[Flux 官网](http://facebook.github.io/flux/)
+[Flux 官网](https://facebook.github.io/flux/)
 
 参考：
 
-- [Flux应用架构](http://reactjs.cn/react/docs/flux-overview.html)
-- [React Flux入门教程](https://xinranliu.me/2015-01-30-some-understanding-about-flux/)
 - [Flux 架构入门教程](http://www.ruanyifeng.com/blog/2016/01/flux.html)
 
 ## Redux
@@ -123,6 +114,7 @@ React Native Components
 
 --------------------------------------------------------------------------------
 
+
 # 测试
 
 [前端测试框架概览](http://front-ender.me/test/front-end-test.html)
@@ -139,8 +131,8 @@ React Native Components
 
 [React 测试入门教程](http://www.ruanyifeng.com/blog/2016/02/react-testing-tutorial.html)
 
-
 --------------------------------------------------------------------------------
+
 
 # Web
 
@@ -177,8 +169,8 @@ React Native Components
 
 [Colors色彩](http://ant.design/docs/spec/colors)
 
-
 --------------------------------------------------------------------------------
+
 
 # TypeScript
 
@@ -192,8 +184,34 @@ React Native Components
 
 --------------------------------------------------------------------------------
 
+
 # Design
+
+[Ant Design](http://ant.design/)
 
 [Material Design](https://material.google.com/)
 
-[Ant Design](http://ant.design/)
+
+### React Components
+
+- [Material-UI](http://www.material-ui.com/#/)
+- [Elemental UI](http://elemental-ui.com/)
+
+### React Native Components
+
+- [Ant Design Mobile](https://mobile.ant.design/)
+
+--------------------------------------------------------------------------------
+
+
+# References
+
+[Web前端导航](http://www.alloyteam.com/nav/)
+
+[前端资源库](https://www.awesomes.cn/)
+
+[Page speed optimization](https://varvy.com/pagespeed/)
+
+[浏览器兼容性 Can I Use](http://caniuse.com/)
+
+[Create a minimal favicon](https://favicon.io/index.html#)
