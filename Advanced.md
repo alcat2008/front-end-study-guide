@@ -24,6 +24,8 @@
 
 [fouber 的博客](https://github.com/fouber/blog)
 
+[个人理解的前端工程化](./Engineering.md)
+
 
 ## 组件化和模块化
 
