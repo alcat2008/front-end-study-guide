@@ -20,6 +20,11 @@
 [Web 研发模式演变](https://github.com/lifesinger/blog/issues/184)
 
 
+## 工程化
+
+[fouber 的博客](https://github.com/fouber/blog)
+
+
 ## 组件化和模块化
 
 [2015前端组件化框架之路](https://github.com/xufei/blog/issues/19)
@@ -29,6 +34,7 @@
 [关于前端开发中“模块”和“组件”概念的思考](https://github.com/hax/hax.github.com/issues/21)
 
 [重新设计 React 组件库](https://zhuanlan.zhihu.com/p/24207409)
+
 
 --------------------------------------------------------------------------------
 
