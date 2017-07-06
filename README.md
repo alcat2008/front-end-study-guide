@@ -171,6 +171,17 @@ React Native 参考：
 
 --------------------------------------------------------------------------------
 
+# Electron - 桌面应用
+
+[Electron 官网](https://electron.atom.io/)
+
+参考：
+- [Electron中文文档](https://github.com/electron/electron/tree/master/docs-translations/zh-CN)
+- [Electron 深度实践总结](https://changkun.us/archives/2017/03/217/)
+
+
+--------------------------------------------------------------------------------
+
 
 # TypeScript
 
