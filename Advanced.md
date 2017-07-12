@@ -1,4 +1,4 @@
-# 前端学习指南 - 进阶篇
+# 前端学习指南 - 进阶篇之 “道”
 
 本文重点关注技术背后的原理、架构思考、编程方法论等方面。会搜集看到的一些好文章、讨论等。如果您有推荐，请提 PR ，谢谢！
 
@@ -24,7 +24,7 @@
 
 [fouber 的博客](https://github.com/fouber/blog)
 
-[个人理解的前端工程化](./Engineering.md)
+[个人理解的前端工程化](http://front-ender.me//architecture/front-end-engineering.html)
 
 
 ## 组件化和模块化
@@ -78,21 +78,6 @@
 [React 设计思想](https://github.com/react-guide/react-basic)
 
 [React的设计哲学 - 简单之美](http://www.infoq.com/cn/articles/react-art-of-simplity)
-
-
---------------------------------------------------------------------------------
-
-# CSS
-
-[如何看待《React: CSS in JS》](https://github.com/hax/hax.github.com/issues/22)
-
-## CSS Modular
-
-[style 模块化思考](http://front-ender.me/architecture/style-modular.html)
-
-## CSS Performance
-
-[CSS Animation 性能优化](http://www.w3cplus.com/animation/animation-performance.html)
 
 
 --------------------------------------------------------------------------------
