@@ -19,6 +19,8 @@
 
 [Web 研发模式演变](https://github.com/lifesinger/blog/issues/184)
 
+[单页应用的数据流方案探索](https://zhuanlan.zhihu.com/p/26426054)
+
 
 ## 工程化
 
@@ -94,6 +96,8 @@
 --------------------------------------------------------------------------------
 
 # Performance 性能
+
+[浏览器前端优化](http://jinlong.github.io/2017/05/08/optimising-the-front-end-for-the-browser/)
 
 [7 天打造前端性能监控系统](http://fex.baidu.com/blog/2014/05/build-performance-monitor-in-7-days/)
 
