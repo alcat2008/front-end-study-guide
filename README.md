@@ -3,12 +3,15 @@
 学习曲线遵循
 
 ```javascript
-`JavaScript (ES5/6)` => `React` => `React Native`
-         |           |                      |
-        `FP`          ==> `Flux/Redux`  ==> |
-                                            |
-                                            |
-`HTML` => `HTML5`   ===>  `Mental Model`  <===
+
+`JavaScript (ES5/6)` ===> `React` => `React Native` => ------|
+         |            |       |                     |        |
+        `FP`          |       ==> `Flux/Redux`  ==> |        |
+                      |                                      |
+                     ===> `Vue` => `Vuex` => ----------------|
+                                                             |
+                                                             |
+`HTML` => `HTML5`   ===>     `Mental Model`  <===  ----------|
                      |           |
                      |           |
                      |        `Design` ===> `Art` ===> ...
@@ -72,6 +75,9 @@
 - [跟着9张思维导图学习Javascript](http://www.jianshu.com/p/a4171444e512)
 - [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 
+--------------------------------------------------------------------------------
+
+
 ## React
 
 [React 官网](https://facebook.github.io/react/)
@@ -84,7 +90,7 @@ React 参考：
 - [pure render](https://zhuanlan.zhihu.com/purerender)
 - [ReactJS News](https://reactjsnews.com/)
 
-## React Native
+### React Native
 
 [React Native 官网](https://facebook.github.io/react-native/)
 
@@ -93,7 +99,7 @@ React Native 参考：
 - [React Native 中文网](http://reactnative.cn/)
 - [React Native Express](http://www.reactnativeexpress.com/)
 
-## Flux
+### Flux
 
 [Flux 官网](https://facebook.github.io/flux/)
 
@@ -101,7 +107,7 @@ React Native 参考：
 
 - [Flux 架构入门教程](http://www.ruanyifeng.com/blog/2016/01/flux.html)
 
-## Redux
+### Redux
 
 [Redux 官网](http://redux.js.org/)
 
@@ -111,9 +117,21 @@ React Native 参考：
 - [Redux 源码分析](http://front-ender.me/architecture/redux-source-code.html)
 - [react-redux 源码分析](http://front-ender.me/architecture/react-redux-source-code.html)
 
-## 技术栈
+### 其他
 
 [React 技术栈系列教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
+
+--------------------------------------------------------------------------------
+
+
+## Vue
+
+[Vue 官网](https://cn.vuejs.org/)
+
+Vue 参考：
+
+- [新手向：Vue 2.0 的建议学习顺序](https://zhuanlan.zhihu.com/p/23134551)
+- [Vue 2.0——渐进式前端解决方案](http://www.infoq.com/cn/articles/vue-2-progressive-front-end-solution)
 
 --------------------------------------------------------------------------------
 
@@ -174,6 +192,7 @@ React Native 参考：
 
 --------------------------------------------------------------------------------
 
+
 # Electron - 桌面应用
 
 [Electron 官网](https://electron.atom.io/)
@@ -181,7 +200,6 @@ React Native 参考：
 参考：
 - [Electron中文文档](https://github.com/electron/electron/tree/master/docs-translations/zh-CN)
 - [Electron 深度实践总结](https://changkun.us/archives/2017/03/217/)
-
 
 --------------------------------------------------------------------------------
 
