@@ -64,6 +64,7 @@
 - [Airbnb JavaScript 编码规范](https://github.com/yuche/javascript)
 - [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 - 项目中 Eslint rules 及提示
+- [Front-End Coding Guidelines](https://guide.aotu.io/index.html) 京东凹凸实验室的前端代码规范
 
 --------------------------------------------------------------------------------
 
