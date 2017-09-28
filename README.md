@@ -66,6 +66,11 @@
 - 项目中 Eslint rules 及提示
 - [Front-End Coding Guidelines](https://guide.aotu.io/index.html) 京东凹凸实验室的前端代码规范
 
+## 调试工具
+
+[在 Chrome DevTools 中调试 JavaScript 入门](https://developers.google.com/web/tools/chrome-devtools/javascript/?hl=zh-cn)
+[Chrome 开发者工具](https://developers.google.com/web/tools/chrome-devtools/?hl=zh-cn)
+
 --------------------------------------------------------------------------------
 
 
