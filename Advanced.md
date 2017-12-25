@@ -55,6 +55,14 @@
 
 [程序观点下的线性代数](http://www.cnblogs.com/weidagang2046/p/linear-algebra-from-programming-perspective.html)
 
+## Defensive programming 防御性编程/安全编程
+
+> 基本规则：保护程序免遭非法输入数据的破坏。
+
+- 提供默认值
+- 使用 propTypes/type 属性校验类型
+- 使用 props 之前先检查该 prop 是否存在
+
 ## Monads
 
 [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
@@ -63,7 +71,7 @@
 
 [图解 Monad](http://www.ruanyifeng.com/blog/2015/07/monad.html)
 
-## Functional Programming
+## Functional Programming 函数式编程
 
 [mostly-adequate-guide/details](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 
