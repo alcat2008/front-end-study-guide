@@ -182,6 +182,8 @@ Vue 参考：
 
 [CSS 编码规范](http://codeguide.bootcss.com/)
 
+[BEM 命名规范](http://getbem.com/naming/)
+
 ### LESS
 
 [LESS 一种动态样式语言](http://www.bootcss.com/p/lesscss/)
