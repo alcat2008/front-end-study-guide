@@ -228,6 +228,12 @@ Vue 参考：
 
 # Design
 
+设计体系方法论： [atomic design](http://bradfrost.com/blog/post/atomic-web-design/)，阐述了从抽象到具体的 5 个层次： 
+
+```
+Atoms => Molecules => Organisms => Templates => Pages
+```
+
 [Ant Design](http://ant.design/)
 
 [Material Design](https://material.google.com/)
