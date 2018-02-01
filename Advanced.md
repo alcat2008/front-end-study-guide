@@ -63,6 +63,10 @@
 - 使用 propTypes/type 属性校验类型
 - 使用 props 之前先检查该 prop 是否存在
 
+## 数据流
+
+[前端数据流哲学](https://zhuanlan.zhihu.com/p/33382396?group_id=941233109623169024)
+
 ## Monads
 
 [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
