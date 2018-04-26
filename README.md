@@ -1,5 +1,8 @@
 # 前端学习指南
 
+技术是一种载体，在它之上是对整个体系的认知，如何精进呢，Winter 的文章 [一个前端的自我修养
+](http://taobaofed.org/blog/2016/03/23/the-growth-of-front-end/)，不容错过！
+
 学习曲线遵循
 
 ```javascript
