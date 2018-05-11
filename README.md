@@ -72,6 +72,7 @@
 ## 调试工具
 
 [在 Chrome DevTools 中调试 JavaScript 入门](https://developers.google.com/web/tools/chrome-devtools/javascript/?hl=zh-cn)
+
 [Chrome 开发者工具](https://developers.google.com/web/tools/chrome-devtools/?hl=zh-cn)
 
 --------------------------------------------------------------------------------
@@ -129,6 +130,8 @@ React Native 参考：
 ### 其他
 
 [React 技术栈系列教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
+
+[dva](https://github.com/dvajs/dva)
 
 --------------------------------------------------------------------------------
 
@@ -205,26 +208,15 @@ Vue 参考：
 --------------------------------------------------------------------------------
 
 
-# Electron - 桌面应用
+# 移动端
 
-[Electron 官网](https://electron.atom.io/)
+[移动端尺寸基础知识](http://colachan.com/post/3435)
 
-参考：
-- [Electron中文文档](https://github.com/electron/electron/tree/master/docs-translations/zh-CN)
-- [Electron 深度实践总结](https://changkun.us/archives/2017/03/217/)
+[移动端高清、多屏适配方案](http://www.html-js.com/article/Mobile-terminal-H5-mobile-terminal-HD-multi-screen-adaptation-scheme%203041)
 
---------------------------------------------------------------------------------
+[使用Flexible实现手淘H5页面的终端适配](https://github.com/amfe/article/issues/17)
 
-
-# TypeScript
-
-[TypeScript 官网](http://www.typescriptlang.org/)
-
-参考：
-- [TypeScript中文网](http://tslang.cn/)
-- [TypeScript Handbook（中文版）](https://zhongsp.gitbooks.io/typescript-handbook/content/)
-- [TypeScript 的声明文件的使用与编写](https://my.oschina.net/fenying/blog/748805)
-- [TypeScript Types Search](http://microsoft.github.io/TypeSearch/)
+[再聊移动端页面的适配](https://www.w3cplus.com/css/vw-for-layout.html)
 
 --------------------------------------------------------------------------------
 
@@ -251,12 +243,28 @@ Atoms => Molecules => Organisms => Templates => Pages
 
 - [Ant Design Mobile](https://mobile.ant.design/)
 
+### Vue Components
+
+- [Element](http://element-cn.eleme.io/#/zh-CN)
+- [Vant - 移动端](https://www.youzanyun.com/zanui/vant#/zh-CN/intro)
+
+--------------------------------------------------------------------------------
+
+
+# 解决方案
+
+[ANT DESIGN PRO](https://pro.ant.design/index-cn)
+
+[飞冰 ICE](https://alibaba.github.io/ice)
+
+[数据可视化 AntV](https://antv.alipay.com/zh-cn/index.html)
+
 --------------------------------------------------------------------------------
 
 
 # References
 
-[Web前端导航](http://www.alloyteam.com/nav/)
+[Web 前端导航](http://www.alloyteam.com/nav/)
 
 [前端资源库](https://www.awesomes.cn/)
 
@@ -265,3 +273,25 @@ Atoms => Molecules => Organisms => Templates => Pages
 [浏览器兼容性 Can I Use](http://caniuse.com/)
 
 [Create a minimal favicon](https://favicon.io/index.html#)
+
+
+## Electron - 桌面应用
+
+[Electron 官网](https://electron.atom.io/)
+
+参考：
+
+- [Electron中文文档](https://github.com/electron/electron/tree/master/docs-translations/zh-CN)
+- [Electron 深度实践总结](https://changkun.us/archives/2017/03/217/)
+
+
+## TypeScript
+
+[TypeScript 官网](http://www.typescriptlang.org/)
+
+参考：
+
+- [TypeScript中文网](http://tslang.cn/)
+- [TypeScript Handbook（中文版）](https://zhongsp.gitbooks.io/typescript-handbook/content/)
+- [TypeScript 的声明文件的使用与编写](https://my.oschina.net/fenying/blog/748805)
+- [TypeScript Types Search](http://microsoft.github.io/TypeSearch/)
