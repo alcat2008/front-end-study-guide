@@ -13,13 +13,20 @@
 
 [我理解的阿里无线前端“架构”](https://github.com/amfe/article/issues/3)
 
-[前端服务化——页面搭建工具的死与生](http://www.cnblogs.com/sskyy/p/6496287.html)
-
 [理想的应用框架](http://www.cnblogs.com/sskyy/p/4592353.html)
 
 [Web 研发模式演变](https://github.com/lifesinger/blog/issues/184)
 
 [单页应用的数据流方案探索](https://zhuanlan.zhihu.com/p/26426054)
+
+
+## 服务化
+
+[前端服务化——页面搭建工具的死与生](http://www.cnblogs.com/sskyy/p/6496287.html)
+
+[页面可视化搭建工具前生今世](https://zhuanlan.zhihu.com/p/37171897)
+
+[前端即服务-通向零成本开发之路](https://os.alipayobjects.com/rmsportal/sJqXvOtwePsVWGNIwlas.pdf)
 
 
 ## 工程化
