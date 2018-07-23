@@ -19,13 +19,15 @@
                      |           |
                      |        `Design` ===> `Art` ===> ...
                      |
-`CSS` => `CSS3` => `LESS`
+`CSS` => `CSS3` => `LESS`Wechat.md
 ```
 
 本文重在 “术”，追求的是广度，要想继续学习，在前端领域深入耕耘、探索，请参见以下内容：
 
 - [“道”](./Advanced.md) —— 有一些技术背后的原理阐述、架构思考、编程方法论等。
 - [“法”](./Implemention.md) —— 对前端细分领域的思考，注重深度，比如动画等。
+
+另外，微信作为一个独立的开发体系，参见 [Wechat](./Wechat.md)
 
 --------------------------------------------------------------------------------
 
@@ -288,7 +290,7 @@ Atoms => Molecules => Organisms => Templates => Pages
 ## TypeScript
 
 [TypeScript 官网](http://www.typescriptlang.org/)
-
+images
 参考：
 
 - [TypeScript中文网](http://tslang.cn/)
@@ -303,4 +305,5 @@ Atoms => Molecules => Organisms => Templates => Pages
 - [Canvas vs SVG](http://www.w3school.com.cn/html5/html_5_canvas_vs_svg.asp)
 - [AntV](https://antv.alipay.com/zh-cn/index.html)
 - [D3.js](https://d3js.org/)
+- [D3 Tutorial Table of Contents](https://www.dashingd3js.com/table-of-contents)
 - [WebGL 技术储备指南](http://taobaofed.org/blog/2015/12/21/webgl-handbook/)
