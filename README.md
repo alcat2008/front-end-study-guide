@@ -222,6 +222,35 @@ Vue 参考：
 
 --------------------------------------------------------------------------------
 
+# Data Visualization 数据可视化
+
+[数据可视化概览](https://antv.alipay.com/zh-cn/vis/blog/vis-introduce.html)
+[Canvas vs SVG](http://www.w3school.com.cn/html5/html_5_canvas_vs_svg.asp)
+[WebGL 技术储备指南](http://taobaofed.org/blog/2015/12/21/webgl-handbook/)
+[ECharts](http://echarts.baidu.com/)
+
+## AntV
+
+[AntV](https://antv.alipay.com/zh-cn/index.html) 是蚂蚁金服全新一代数据可视化解决方案，致力于提供一套简单方便、专业可靠、无限可能的数据可视化最佳实践
+
+- [G2 可视化图形语法](https://antv.alipay.com/zh-cn/g2/3.x/index.html)
+  
+  一套基于可视化编码的图形语法，以数据驱动，具有高度的易用性和扩展性，用户无需关注各种繁琐的实现细节，一条语句即可构建出各种各样的可交互的统计图表
+
+- [G6 关系数据可视化](https://antv.alipay.com/zh-cn/g6/1.x/index.html)
+
+  关系数据可视化引擎，开发者可以基于 G6 拓展出属于自己的图分析应用或者图编辑器应用
+
+- [F2 移动端可视化解决方案](https://antv.alipay.com/zh-cn/f2/3.x/index.html)
+
+  专为移动端定制的一套开箱即用的可视化解决方案，具有精简、高性能、易扩展的特性。适用于对性能、大小、扩展性要求严苛的场景
+
+## D3
+
+[D3.js](https://d3js.org/)(Data-Driven Documents) 是基于数据操作文档的 JavaScript 库。D3 绑定数据到 DOM，根据数据操作文档，创建交互式的图表。需要注意的是，数据转换和绘制相互独立。
+
+--------------------------------------------------------------------------------
+
 
 # Design
 
@@ -236,30 +265,17 @@ Atoms => Molecules => Organisms => Templates => Pages
 [Material Design](https://material.google.com/)
 
 
-### React Components
+## Components
 
-- [Material-UI](http://www.material-ui.com/#/)
-- [Elemental UI](http://elemental-ui.com/)
+- [Material-UI](http://www.material-ui.com/#/) React components that implement Google's Material Design
+- [Ant Design Mobile](https://mobile.ant.design/) 一个基于 Preact / React / React Native 的 UI 组件库
+- [Element](http://element-cn.eleme.io/#/zh-CN) 基于 Vue 2.0 的桌面端组件库
+- [Vant - 移动端](https://www.youzanyun.com/zanui/vant#/zh-CN/intro) 轻量、可靠的移动端 Vue 组件库
 
-### React Native Components
+## Solutions
 
-- [Ant Design Mobile](https://mobile.ant.design/)
-
-### Vue Components
-
-- [Element](http://element-cn.eleme.io/#/zh-CN)
-- [Vant - 移动端](https://www.youzanyun.com/zanui/vant#/zh-CN/intro)
-
---------------------------------------------------------------------------------
-
-
-# 解决方案
-
-[ANT DESIGN PRO](https://pro.ant.design/index-cn)
-
-[飞冰 ICE](https://alibaba.github.io/ice)
-
-[数据可视化 AntV](https://antv.alipay.com/zh-cn/index.html)
+- [ANT DESIGN PRO](https://pro.ant.design/index-cn) 开箱即用的中台前端/设计解决方案
+- [飞冰 ICE](https://alibaba.github.io/ice)
 
 --------------------------------------------------------------------------------
 
@@ -297,13 +313,3 @@ Atoms => Molecules => Organisms => Templates => Pages
 - [TypeScript Handbook（中文版）](https://zhongsp.gitbooks.io/typescript-handbook/content/)
 - [TypeScript 的声明文件的使用与编写](https://my.oschina.net/fenying/blog/748805)
 - [TypeScript Types Search](http://microsoft.github.io/TypeSearch/)
-
-
-## Data Visualization 数据可视化
-
-- [数据可视化概览](https://antv.alipay.com/zh-cn/vis/blog/vis-introduce.html)
-- [Canvas vs SVG](http://www.w3school.com.cn/html5/html_5_canvas_vs_svg.asp)
-- [AntV](https://antv.alipay.com/zh-cn/index.html)
-- [D3.js](https://d3js.org/)
-- [D3 Tutorial Table of Contents](https://www.dashingd3js.com/table-of-contents)
-- [WebGL 技术储备指南](http://taobaofed.org/blog/2015/12/21/webgl-handbook/)
