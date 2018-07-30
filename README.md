@@ -172,40 +172,30 @@ Vue 参考：
 
 # Web
 
-## HTML
+### HTML
 
-[HTML 教程](http://www.w3school.com.cn/html/index.asp)
+- [HTML 教程](http://www.w3school.com.cn/html/index.asp)
+- [HTML5 教程](http://www.w3school.com.cn/html5/index.asp)
 
-[HTML5 教程](http://www.w3school.com.cn/html5/index.asp)
+### CSS
 
-## CSS
-
-[CSS 教程](http://www.w3school.com.cn/css/index.asp)
-
-[CSS3 教程](http://www.w3school.com.cn/css3/index.asp)
-
-[学习CSS布局](http://zh.learnlayout.com/)
-
-[Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
-
-[CSS 编码规范](http://codeguide.bootcss.com/)
-
-[BEM 命名规范](http://getbem.com/naming/)
+- [CSS 教程](http://www.w3school.com.cn/css/index.asp)
+- [CSS3 教程](http://www.w3school.com.cn/css3/index.asp)
+- [学习CSS布局](http://zh.learnlayout.com/)
+- [Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+- [CSS 编码规范](http://codeguide.bootcss.com/)
+- [BEM 命名规范](http://getbem.com/naming/)
 
 ### LESS
 
-[LESS 一种动态样式语言](http://www.bootcss.com/p/lesscss/)
+- [LESS 一种动态样式语言](http://www.bootcss.com/p/lesscss/)
+- [LESS 官网](http://lesscss.org/)
+- [LESS 中文网](http://www.lesscss.net/)
 
-[LESS 官网](http://lesscss.org/)
+### Color
 
-[LESS 中文网](http://www.lesscss.net/)
-
-
-## Color
-
-[WEB安全色](http://www.bootcss.com/p/websafecolors/)
-
-[Colors色彩](http://ant.design/docs/spec/colors)
+- [WEB安全色](http://www.bootcss.com/p/websafecolors/)
+- [Colors色彩](http://ant.design/docs/spec/colors)
 
 --------------------------------------------------------------------------------
 
@@ -225,8 +215,11 @@ Vue 参考：
 # Data Visualization 数据可视化
 
 [数据可视化概览](https://antv.alipay.com/zh-cn/vis/blog/vis-introduce.html)
+
 [Canvas vs SVG](http://www.w3school.com.cn/html5/html_5_canvas_vs_svg.asp)
+
 [WebGL 技术储备指南](http://taobaofed.org/blog/2015/12/21/webgl-handbook/)
+
 [ECharts](http://echarts.baidu.com/)
 
 ## AntV
@@ -247,23 +240,22 @@ Vue 参考：
 
 ## D3
 
-[D3.js](https://d3js.org/)(Data-Driven Documents) 是基于数据操作文档的 JavaScript 库。D3 绑定数据到 DOM，根据数据操作文档，创建交互式的图表。需要注意的是，数据转换和绘制相互独立。
+[D3.js](https://d3js.org/) (Data-Driven Documents) 是基于数据操作文档的 JavaScript 库。D3 绑定数据到 DOM，根据数据操作文档，创建交互式的图表。需要注意的是，数据转换和绘制相互独立。
 
 --------------------------------------------------------------------------------
 
 
 # Design
 
-设计体系方法论： [atomic design](http://bradfrost.com/blog/post/atomic-web-design/)，阐述了从抽象到具体的 5 个层次： 
+设计体系方法论： [atomic design](http://bradfrost.com/blog/post/atomic-web-design/)，阐述了从抽象到具体的 5 个层次：
 
 ```
 Atoms => Molecules => Organisms => Templates => Pages
 ```
 
-[Ant Design](http://ant.design/)
+[Ant Design](http://ant.design/) 一个服务于企业级产品的设计体系，基于『确定』和『自然』的设计价值观和模块化的解决方案，让设计者专注于更好的用户体验
 
-[Material Design](https://material.google.com/)
-
+[Material Design](https://material.google.com/) A visual language that synthesizes the classic principles of good design with the innovation of technology and science
 
 ## Components
 
