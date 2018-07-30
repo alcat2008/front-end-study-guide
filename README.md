@@ -96,10 +96,9 @@
 
 React 参考：
 
-- [React 中文网](http://reactjs.cn/)
+- [React 中文网](https://doc.react-china.org/)
 - [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
 - [React Transaction 机制](http://front-ender.me/react/react-transaction.html)
-- [pure render](https://zhuanlan.zhihu.com/purerender)
 - [ReactJS News](https://reactjsnews.com/)
 
 ### React Native
@@ -124,6 +123,7 @@ React Native 参考：
 [Redux 官网](http://redux.js.org/)
 
 参考：
+
 - [Redux 中文文档](http://cn.redux.js.org/index.html)
 - [理解 Redux](http://front-ender.me/architecture/redux.html)
 - [Redux 源码分析](http://front-ender.me/architecture/redux-source-code.html)
@@ -131,9 +131,17 @@ React Native 参考：
 
 ### 其他
 
+[pure render](https://zhuanlan.zhihu.com/purerender) 阿里数据中台前端团队分享前端相关经验，高质量的知乎专栏
+
 [React 技术栈系列教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
 
-[dva](https://github.com/dvajs/dva)
+[dva](https://github.com/dvajs/dva) 基于 redux、redux-saga 和 react-router 的轻量级前端框架
+
+组件化：
+
+- [基于Decorator的组件扩展实践](https://zhuanlan.zhihu.com/p/22054582)
+- [Higher-Order Components](https://reactjs.org/docs/higher-order-components.html)
+- [Render Props](https://reactjs.org/docs/render-props.html)
 
 --------------------------------------------------------------------------------
 
@@ -156,14 +164,6 @@ Vue 参考：
 [前端测试框架概览](http://front-ender.me/test/front-end-test.html)
 
 [基于 React + Redux 的组件测试](http://front-ender.me/react/react-test-component.html)
-
-[前端单元测试探索](https://segmentfault.com/a/1190000006933557)
-
-[测试框架 Mocha 实例教程](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
-
-[Enzyme](http://airbnb.io/enzyme/)
-
-[使用 Mocha + Chai + Sinon 测试 React + Redux 的 web 应用](http://zhaozhiming.github.io/blog/2015/12/19/use-mocha-and-chai-and-sinon-to-test-react-and-redux-webapp/)
 
 [React 测试入门教程](http://www.ruanyifeng.com/blog/2016/02/react-testing-tutorial.html)
 
@@ -290,7 +290,7 @@ Atoms => Molecules => Organisms => Templates => Pages
 ## TypeScript
 
 [TypeScript 官网](http://www.typescriptlang.org/)
-images
+
 参考：
 
 - [TypeScript中文网](http://tslang.cn/)
