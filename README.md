@@ -19,7 +19,7 @@
                      |           |
                      |        `Design` ===> `Art` ===> ...
                      |
-`CSS` => `CSS3` => `LESS`Wechat.md
+`CSS` => `CSS3` => `LESS`
 ```
 
 本文重在 “术”，追求的是广度，要想继续学习，在前端领域深入耕耘、探索，请参见以下内容：
@@ -31,7 +31,6 @@
 
 --------------------------------------------------------------------------------
 
-
 ## 概览
 
 [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ifom7kt4c)
@@ -42,7 +41,6 @@
 
 --------------------------------------------------------------------------------
 
-
 ## 开发工具
 
 - `WebStorm` / `VSCode` / `Sublime Text` / `Atom`
@@ -52,33 +50,22 @@
 
 ## 版本控制 Git
 
-[git - 简明指南](http://www.runoob.com/manual/git-guide/)
-
-参考：
-
-- [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
-- [Git远程操作详解](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
+- [git - 简明指南](http://www.runoob.com/manual/git-guide/)
+- [常用 Git 命令清单](https://github.com/alcat2008/toolkit/blob/master/Git.md)
 - [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
 
 ## 编码规范 JavaScript
 
-[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
-
-参考：
-
-- [Airbnb JavaScript 编码规范](https://github.com/yuche/javascript)
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 - [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
-- 项目中 Eslint rules 及提示
 - [Front-End Coding Guidelines](https://guide.aotu.io/index.html) 京东凹凸实验室的前端代码规范
 
 ## 调试工具
 
-[在 Chrome DevTools 中调试 JavaScript 入门](https://developers.google.com/web/tools/chrome-devtools/javascript/?hl=zh-cn)
-
-[Chrome 开发者工具](https://developers.google.com/web/tools/chrome-devtools/?hl=zh-cn)
+- [在 Chrome DevTools 中调试 JavaScript 入门](https://developers.google.com/web/tools/chrome-devtools/javascript/?hl=zh-cn)
+- [Chrome 开发者工具](https://developers.google.com/web/tools/chrome-devtools/?hl=zh-cn)
 
 --------------------------------------------------------------------------------
-
 
 ## JavaScript
 
@@ -89,68 +76,43 @@
 
 --------------------------------------------------------------------------------
 
-
-## React
-
-[React 官网](https://facebook.github.io/react/)
-
-React 参考：
+## React - [官网](https://facebook.github.io/react/)
 
 - [React 中文网](https://doc.react-china.org/)
 - [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
-- [React Transaction 机制](http://front-ender.me/react/react-transaction.html)
+- [React Transaction 机制](https://front-ender.cn/react/react-transaction.html)
 - [ReactJS News](https://reactjsnews.com/)
 
-### React Native
-
-[React Native 官网](https://facebook.github.io/react-native/)
-
-React Native 参考：
+### React Native - [官网](https://facebook.github.io/react-native/)
 
 - [React Native 中文网](http://reactnative.cn/)
 - [React Native Express](http://www.reactnativeexpress.com/)
 
-### Flux
+### Application Architecture
 
-[Flux 官网](https://facebook.github.io/flux/)
-
-参考：
-
+- **[Flux](https://facebook.github.io/flux/)**
 - [Flux 架构入门教程](http://www.ruanyifeng.com/blog/2016/01/flux.html)
-
-### Redux
-
-[Redux 官网](http://redux.js.org/)
-
-参考：
-
+- **[Redux](http://redux.js.org/)**
 - [Redux 中文文档](http://cn.redux.js.org/index.html)
-- [理解 Redux](http://front-ender.me/architecture/redux.html)
-- [Redux 源码分析](http://front-ender.me/architecture/redux-source-code.html)
-- [react-redux 源码分析](http://front-ender.me/architecture/react-redux-source-code.html)
+- [理解 Redux](https://front-ender.cn/architecture/redux.html)
+- [Redux 源码分析](https://front-ender.cn/architecture/redux-source-code.html)
+- [react-redux 源码分析](https://front-ender.cn/architecture/react-redux-source-code.html)
+- **[dva](https://github.com/dvajs/dva)** 基于 redux、redux-saga 和 react-router 的轻量级前端框架
 
-### 其他
-
-[pure render](https://zhuanlan.zhihu.com/purerender) 阿里数据中台前端团队分享前端相关经验，高质量的知乎专栏
-
-[React 技术栈系列教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
-
-[dva](https://github.com/dvajs/dva) 基于 redux、redux-saga 和 react-router 的轻量级前端框架
-
-组件化：
+### Components 组件化开发思想
 
 - [基于Decorator的组件扩展实践](https://zhuanlan.zhihu.com/p/22054582)
 - [Higher-Order Components](https://reactjs.org/docs/higher-order-components.html)
 - [Render Props](https://reactjs.org/docs/render-props.html)
 
+### 其他
+
+- [pure render](https://zhuanlan.zhihu.com/purerender) 阿里数据中台前端团队分享前端相关经验，高质量的知乎专栏
+- [React 技术栈系列教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
+
 --------------------------------------------------------------------------------
 
-
-## Vue
-
-[Vue 官网](https://cn.vuejs.org/)
-
-Vue 参考：
+## Vue - [官网](https://cn.vuejs.org/)
 
 - [新手向：Vue 2.0 的建议学习顺序](https://zhuanlan.zhihu.com/p/23134551)
 - [Vue 2.0——渐进式前端解决方案](http://www.infoq.com/cn/articles/vue-2-progressive-front-end-solution)
@@ -158,14 +120,11 @@ Vue 参考：
 
 --------------------------------------------------------------------------------
 
+## Test 测试
 
-# 测试
-
-[前端测试框架概览](http://front-ender.me/test/front-end-test.html)
-
-[基于 React + Redux 的组件测试](http://front-ender.me/react/react-test-component.html)
-
-[React 测试入门教程](http://www.ruanyifeng.com/blog/2016/02/react-testing-tutorial.html)
+- [前端测试框架概览](https://front-ender.cn/test/front-end-test.html)
+- [React 测试入门教程](http://www.ruanyifeng.com/blog/2016/02/react-testing-tutorial.html)
+- [基于 React + Redux 的组件测试](https://front-ender.cn/react/react-test-component.html)
 
 --------------------------------------------------------------------------------
 
@@ -211,6 +170,7 @@ Vue 参考：
 [再聊移动端页面的适配](https://www.w3cplus.com/css/vw-for-layout.html)
 
 --------------------------------------------------------------------------------
+
 
 # Data Visualization 数据可视化
 
@@ -285,21 +245,13 @@ Atoms => Molecules => Organisms => Templates => Pages
 [Create a minimal favicon](https://favicon.io/index.html#)
 
 
-## Electron - 桌面应用
+## Electron - [官网](https://electron.atom.io/)
 
-[Electron 官网](https://electron.atom.io/)
-
-参考：
-
-- [Electron中文文档](https://github.com/electron/electron/tree/master/docs-translations/zh-CN)
+- [Electron 中文文档](https://github.com/electron/electron/tree/master/docs-translations/zh-CN)
 - [Electron 深度实践总结](https://changkun.us/archives/2017/03/217/)
 
 
-## TypeScript
-
-[TypeScript 官网](http://www.typescriptlang.org/)
-
-参考：
+## TypeScript - [官网](http://www.typescriptlang.org/)
 
 - [TypeScript中文网](http://tslang.cn/)
 - [TypeScript Handbook（中文版）](https://zhongsp.gitbooks.io/typescript-handbook/content/)
