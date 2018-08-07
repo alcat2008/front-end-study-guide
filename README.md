@@ -230,7 +230,7 @@ Atoms => Molecules => Organisms => Templates => Pages
 - [ANT DESIGN PRO](https://pro.ant.design/index-cn) 开箱即用的中台前端/设计解决方案
 - [飞冰 ICE](https://alibaba.github.io/ice)
 
-作为离用户最近的端，绕不开设计，会将看到一些设计资源汇总在 [Design](./Design.md) 中。
+作为离用户最近的端，绕不开设计，会将搜集到的一些设计资源汇总在 [Design](./Design.md) 中。
 
 --------------------------------------------------------------------------------
 
