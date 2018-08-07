@@ -81,6 +81,7 @@
 - [React 中文网](https://doc.react-china.org/)
 - [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
 - [React Transaction 机制](https://front-ender.cn/react/react-transaction.html)
+- [React 16 Fiber 源码速览](http://zxc0328.github.io/2017/09/28/react-16-source/)
 - [ReactJS News](https://reactjsnews.com/)
 
 ### React Native - [官网](https://facebook.github.io/react-native/)
@@ -228,6 +229,8 @@ Atoms => Molecules => Organisms => Templates => Pages
 
 - [ANT DESIGN PRO](https://pro.ant.design/index-cn) 开箱即用的中台前端/设计解决方案
 - [飞冰 ICE](https://alibaba.github.io/ice)
+
+作为离用户最近的端，绕不开设计，会将看到一些设计资源汇总在 [Design](./Design.md) 中。
 
 --------------------------------------------------------------------------------
 

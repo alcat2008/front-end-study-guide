@@ -33,7 +33,7 @@
 
 [fouber 的博客](https://github.com/fouber/blog)
 
-[个人理解的前端工程化](http://front-ender.me//architecture/front-end-engineering.html)
+[个人理解的前端工程化](https://front-ender.cn/architecture/front-end-engineering.html)
 
 
 ## 组件化和模块化
