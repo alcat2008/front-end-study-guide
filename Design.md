@@ -10,4 +10,5 @@
 
 ## 文章
 
+- **[用户为什么不听话](https://isux.tencent.com/articles/about-behavior.html)** 行为（Behaviour） = 动机（Motivation） + 能力（Ability） + 触发（Trigger）
 - [Xcube智能一键生成H5](https://isux.tencent.com/articles/isux-xcube-ai-h5.html)
