@@ -22,11 +22,13 @@
 
 ## 服务化
 
-[前端服务化——页面搭建工具的死与生](http://www.cnblogs.com/sskyy/p/6496287.html)
-
 [页面可视化搭建工具前生今世](https://zhuanlan.zhihu.com/p/37171897)
 
+[前端服务化——页面搭建工具的死与生](http://www.cnblogs.com/sskyy/p/6496287.html)
+
 [前端即服务-通向零成本开发之路](https://os.alipayobjects.com/rmsportal/sJqXvOtwePsVWGNIwlas.pdf)
+
+[美团外卖前端可视化界面组装平台 —— 乐高](https://tech.meituan.com/waimai_lego.html)
 
 
 ## 工程化

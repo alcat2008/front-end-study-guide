@@ -117,7 +117,8 @@
 
 - [新手向：Vue 2.0 的建议学习顺序](https://zhuanlan.zhihu.com/p/23134551)
 - [Vue 2.0——渐进式前端解决方案](http://www.infoq.com/cn/articles/vue-2-progressive-front-end-solution)
-- [Vue.js 组件编码规范](https://github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README-CN.md)
+- [Vue 技术内幕](http://hcysun.me/vue-design/)
+- [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
 
 --------------------------------------------------------------------------------
 
